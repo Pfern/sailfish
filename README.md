@@ -194,7 +194,7 @@ some of it is and other pieces of it may be in the future.
 
 The library format string consists of up to 3 parts (2 parts for unpaired
 reads), provided as key-value pairs. The key-value pairs are provided with the
-syntax "key=value", and they are separated by the \':\' character. The relevant 
+syntax "key=value", and they are separated by the `:` character. The relevant 
 keys and possible value options are:
 
 ~~~~
